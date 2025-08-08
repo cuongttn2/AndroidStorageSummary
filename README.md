@@ -3,9 +3,9 @@ The code of this repository is referenced from: https://github.com/himanshuGaur6
 
 # Android Storage Classification
 
-Android storage is broadly categorized into internal and external storage, with further distinctions for app-specific and shared storage. 
-Internal storage is where the OS and apps are installed, while external storage can be either physical media like SD cards or emulated storage. 
-Scoped storage, introduced in Android 10, restricts app access to shared storage, particularly for non-media files, prioritizing user privacy.
+Android storage is broadly categorized into **internal** and **external** storage, with further **distinctions for** **app-specific** and **shared storage**. 
+**Internal storage** is where the OS and apps are installed, while **external storage** can be either physical media like SD cards or emulated storage. 
+**Scoped storage**, introduced in Android 10, restricts app access to shared storage, particularly for non-media files, prioritizing user privacy.
 
 ## 1. Internal Storage
 
